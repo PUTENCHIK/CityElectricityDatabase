@@ -6,7 +6,7 @@
 
 ![Схема](images/schema.png)
 
-[Ссылка][schema] на схему БД в приложении. [Реализация](dumps/cuty_electricity.sql) БД на MySQL.
+[Ссылка][schema] на схему БД в приложении. [Реализация](dumps/city_electricity.sql) БД на MySQL.
 
 Центральной таблицей является таблица users. Она содержит информацию о клиентах компании и её первичный ключ используется как индекс во многих других таблицах.
 
@@ -22,5 +22,10 @@
 
 В файле [typical_data.sql](dumps/typical_data.sql) находятся типовые данные для каждой из таблиц. 
 
+## Представления
+
+
+
+## Процедуры 
 
 [schema]: https://www.dbdiagram.io/d/Gorod-elektronnyj-665ac6ecb65d9338793b1721
