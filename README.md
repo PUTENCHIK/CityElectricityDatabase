@@ -13,4 +13,4 @@
 
 
 
-[schema](https://www.dbdiagram.io/d/Gorod-elektronnyj-665ac6ecb65d9338793b1721)
+[schema]: https://www.dbdiagram.io/d/Gorod-elektronnyj-665ac6ecb65d9338793b1721
